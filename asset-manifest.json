@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Crud-react.js-app/static/css/main.5e4f2aa6.css",
+    "main.js": "/Crud-react.js-app/static/js/main.98be300c.js",
+    "index.html": "/Crud-react.js-app/index.html",
+    "main.5e4f2aa6.css.map": "/Crud-react.js-app/static/css/main.5e4f2aa6.css.map",
+    "main.98be300c.js.map": "/Crud-react.js-app/static/js/main.98be300c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e4f2aa6.css",
+    "static/js/main.98be300c.js"
+  ]
+}
